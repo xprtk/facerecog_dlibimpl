@@ -1,2 +1,6 @@
 *.pyc
 _pycache_
+
+#files
+data/
+dlir/
